@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akhiles6
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning MySql
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on a mini or any project
 - 📫 How to reach me akhileshbk6@gmail.com
 
